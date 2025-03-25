@@ -2,19 +2,19 @@
 
 ## Majors & Planned Majors
 
-|Category||Details|
-|------|------|
-|Majors|Political Science, Marketing Research|
-|Planned Majors|Data Science/ Statistics|
+| Category         | Details                            |
+|------------------|-------------------------------------|
+| Majors           | Political Science, Marketing Research |
+| Planned Majors   | Data Science, Statistics            |
 
 ## Areas of Interest
 
-|Category||Details|
-|------|------|
-|Area of Interst|Data Science, Marketing Strategy, Socioloy|
+| Category        | Details                             |
+|------------------|--------------------------------------|
+| Areas of Interest| Data Science, Marketing Strategy, Sociology |
 
 ## Professional Experiences
 
-|Category||Details|
-|------|------|
-|Professional Experiences|Market/Social Researcher|
+| Category              | Details              |
+|------------------------|----------------------|
+| Professional Experiences | Market/Social Researcher |

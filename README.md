@@ -1,7 +1,23 @@
-## Hi there 👋
+# "Winners never quit & Quitters never win"
 
+## Majors & Planned Majors
+|Category||Details|
+|------|---|
+|Majors|Political Science, Marketing Research|
+|Planned Majors|Data Science/ Statistics|
+
+## Areas of Interest
+|Category||Details|
+|------|---|
+|Area of Interst|Data Science, Marketing Strategy, Socioloy|
+
+## Professional Experiences
+|Category||Details|
+|------|---|
+|Professional Experiences|Market/Social Researcher|
 <!--
 **soodal123/soodal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

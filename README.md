@@ -1,6 +1,6 @@
 # "Winners never quit & Quitters never win"
 
-## Majors & Planned Majors
+## Majors & Planned Majors  
 
 | Category         | Details                            |
 |------------------|-------------------------------------|
